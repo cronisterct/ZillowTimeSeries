@@ -1,2 +1,4 @@
 # ZillowTimeSeries
-The Zillow dataset (modified) recorded Feb 2008- Dec 2015 monthly median sold price for housing in California, Feb 2008-Dec 2016 monthly median mortgage rate, and Feb 2008-Dec 2016 monthly unemployment rate. ​Note:​ ​you can not use the Jan-Dec 2016 monthly median sold prices as part of your analysis, training or testing. It’s only for calculating your prediction accuracy ​AFTER you finalize your model​.
+In this project, I worked with two classmates, Max Shinnerl and Yueling Wu. Together we explored a Zillow dataset from February 2008 to December 2015. This dataset contained monthly median sold price for housing in California, Feb 2008-Dec 2016 monthly median mortgage rate, and Feb 2008-Dec 2016 monthly unemployment rate. Using this data, we attempted to predict median sold price using various time series methods.  
+
+
